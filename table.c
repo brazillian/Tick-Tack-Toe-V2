@@ -2,7 +2,7 @@
  * board.c
  *
  *  Created on: 19 de set. de 2021
- *      Author: Familia PC - NETWORK
+ *      Author: Luiz G. C. Silva
  */
 
 
