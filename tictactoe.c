@@ -2,7 +2,7 @@
  * tictactoe.c
  *
  *  Created on: 19 de set. de 2021
- *      Author: Luiz G. C Silva
+ *      Author: Luiz G. C. Silva
  */
 
 #include <stdio.h>
