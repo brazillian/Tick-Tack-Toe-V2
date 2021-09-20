@@ -2,7 +2,7 @@
  * check_win.c
  *
  *  Created on: 20 de set. de 2021
- *      Author: Familia PC - NETWORK
+ *      Author: Luiz G. C. Silva
  */
 
 
