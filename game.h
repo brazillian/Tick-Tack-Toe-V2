@@ -2,7 +2,7 @@
  * board.h
  *
  *  Created on: 19 de set. de 2021
- *      Author: Familia PC - NETWORK
+ *      Author: Luiz G. C. Silva
  */
 
 #ifndef SRC_GAME_H_
